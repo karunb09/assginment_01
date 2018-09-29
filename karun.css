@@ -1,0 +1,43 @@
+article {
+	background-color: yellow;
+	font-size: 30px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: left;
+}
+header {
+	background-color: black;
+	font-size: 35px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: green;
+}
+footer {
+	background-color: black;
+	color: white;
+	border-style: dashed;
+	border-color: white;
+}
+a:link {
+    color: red;
+}
+a:hover {
+    color: blue;
+}
+#past-section{ 	
+	font-style: italic;
+	font-size: 20px;
+}
+#future_section{
+	font-style: normal;
+	font-size: 20px;
+}
+#dp{
+	padding-top: 5%;
+	border-radius: 50%;
+	margin-left: 25%;	
+}
+h3.section-header{
+	background-color: red;
+}
+h4.aside-header{
+	background-color: purple;
+}
